@@ -12,6 +12,7 @@ We hope that our research will help ski resort business owners to understand the
 Our data has been sourced from two websites containing data on ski resorts which is publicly available. 
 
 https://neo.gsfc.nasa.gov/
+
 https://ski-resort-stats.com/snow-history/ 
 
 # Models and concepts :
